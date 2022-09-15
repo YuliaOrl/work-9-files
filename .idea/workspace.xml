@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4272690f-97c7-4547-bf12-82994c4ccfe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FileParseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/SelenideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/domain/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/domain/Properties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/domain/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/filesParsing/JsonParseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/filesParsing/ZipFileParseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cat.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/example.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/teacher.json" afterDir="false" />
-    </list>
+    <list default="true" id="4272690f-97c7-4547-bf12-82994c4ccfe4" name="Changes" comment="Added FileParseTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,6 +198,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661760026391</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added FileParseTest">
+      <created>1663254886826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254886826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,5 +218,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added FileParseTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FileParseTest" />
   </component>
 </project>
