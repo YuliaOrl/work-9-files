@@ -1,0 +1,12 @@
+{
+  "name": "Kisunya",
+  "breed": "Maine Coon",
+  "gender": "female",
+  "vaccination": "true",
+  "properties": {
+    "color": "brown",
+    "age": "1",
+    "weight": "3"
+  },
+  "feed": ["meat", "fish", "cheese", "eggs"]
+}
